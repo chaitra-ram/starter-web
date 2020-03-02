@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    chaitra sampathram@git.training @awesomej
 
 # THANKS
 
