@@ -21,7 +21,7 @@ This is a simple web project, deployment can be on any web server or even local 
 Please fork this repository and then issue pull request for review
 
 ### Copyright
-2020 Git.Training.
+2020 Git.Training. All Rights reserved.
 
 # Starter Web Repo
 
